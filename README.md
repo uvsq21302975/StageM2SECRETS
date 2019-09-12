@@ -9,10 +9,10 @@
 [Support de la présentation technique F5](https://github.com/uvsq21302975/StageM2SECRETS/raw/master/Presentation_F5.pdf)                                  
 
 
-<br/>;
-<br/>;
-<br/>;
+<br/>
+<br/>
+<br/>
 
 
-Zakaria El Harti <br/>;
-21302975
+**Zakaria El Harti** <br/>
+**21302975**
